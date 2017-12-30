@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  BirthdayTracker
 //
-//  Created by Gloria Winquist on 4/10/17.
-//  Copyright © 2017 iOS Kids. All rights reserved.
+//  
+//  
 //
 
 import UIKit
